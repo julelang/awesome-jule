@@ -4,6 +4,7 @@ List of awesome [Jule](https://github.com/julelang/jule) packages.
 ## Table of Contents
 
 - [Algorithms](#algorithms)
+- [CI/CD](#ci-cd)
 - [Compilers](#compilers)
 - [Command-Line Tools](#command-line-tools)
 - [Documentations](#documentations)
@@ -11,6 +12,10 @@ List of awesome [Jule](https://github.com/julelang/jule) packages.
 <h2 id="algorithms">Algorithms</h2>
 
 - [``Jule``](https://github.com/thealgorithms/jule): Algorithms and data structures implemented in the Jule programming language.
+
+<h2 id="ci-cd">CI/CD</h2>
+
+- [``setup-jule``](https://github.com/Panquesito7/setup-jule/): Setup a JuleC development environment in your project's GitHub Actions.
 
 <h2 id="compilers">Compilers</h2>
 
