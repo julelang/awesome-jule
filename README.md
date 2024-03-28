@@ -1,31 +1,36 @@
 # Awesome Jule
-List of awesome [Jule](https://github.com/julelang/jule) packages.
+List of awesome [Jule](https://github.com/julelang/jule) projects.
 
 ## Table of Contents
 
 - [Algorithms](#algorithms)
-- [CI/CD](#ci-cd)
+- [CI/CD](#cicd)
 - [Compilers](#compilers)
 - [Command-Line Tools](#command-line-tools)
 - [Documentations](#documentations)
+- [Tools & Utilities](#tools--utilities)
 
-<h2 id="algorithms">Algorithms</h2>
+## Algorithms
 
 - [``Jule``](https://github.com/thealgorithms/jule): Algorithms and data structures implemented in the Jule programming language.
 
-<h2 id="ci-cd">CI/CD</h2>
+## CI/CD
 
 - [``setup-jule``](https://github.com/Panquesito7/setup-jule/): Setup a JuleC development environment in your project's GitHub Actions.
 
-<h2 id="compilers">Compilers</h2>
+## Compilers
 
-- [``jule``](https://github.com/julelang/jule): The reference compiler for the Jule programming language.
+- [``jule``](https://github.com/julelang/jule): The reference compiler, standard library and API for the Jule programming language.
 
-<h2 id="command-line-tools">Command-Line Tools</h2>
+## Command-Line Tools
 
 - [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
 
-<h2 id="documentations">Documentations</h2>
+## Documentations
 
 - [``Jule Manual``](https://manual.jule.dev): Official manual of the Jule programming language.
 - [``Jule-101``](https://github.com/yasinldev/Jule-101): Turkish resource for the Jule programming language.
+
+## Tools & Utilities
+
+- [``julefmt``](https://github.com/julelang/julefmt): Official source code formatter for the Jule programming language.
