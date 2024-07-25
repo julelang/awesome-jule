@@ -1,11 +1,11 @@
 # Awesome Jule
-List of awesome [Jule](https://github.com/julelang/jule) projects.
+List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projects.
 
 ## Table of Contents
 
 - [Algorithms](#algorithms)
 - [CI/CD](#cicd)
-- [Compilers](#compilers)
+- [Compilers & Parsers](#compilers--parsers)
 - [Command-Line Tools](#command-line-tools)
 - [Documentations](#documentations)
 - [Tools & Utilities](#tools--utilities)
@@ -18,9 +18,10 @@ List of awesome [Jule](https://github.com/julelang/jule) projects.
 
 - [``setup-jule``](https://github.com/Panquesito7/setup-jule/): Setup a JuleC development environment in your project's GitHub Actions.
 
-## Compilers
+## Compilers & Parsers
 
-- [``jule``](https://github.com/julelang/jule): The reference compiler, standard library and API for the Jule programming language.
+- [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
+- [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
 
 ## Command-Line Tools
 
