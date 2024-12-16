@@ -13,6 +13,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 ## Algorithms
 
 - [``Jule``](https://github.com/thealgorithms/jule): Algorithms and data structures implemented in the Jule programming language.
+- [``Advent of Code Jule``](https://github.com/adamperkowski/aoc_jule) by [@adamperkowski](https://github.com/adamperkowski): Solutions to Advent of Code problems in Jule.
 
 ## CI/CD
 
