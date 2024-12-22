@@ -27,6 +27,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 ## Command-Line Tools
 
 - [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
+- [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
 
 ## Documentations
 
