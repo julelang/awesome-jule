@@ -6,8 +6,8 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Algorithms](#algorithms)
 - [CI/CD](#cicd)
 - [Compilers & Parsers](#compilers--parsers)
-- [Command-Line Tools](#command-line-tools)
 - [Documentations](#documentations)
+- [Libraries](#libraries)
 - [Tools & Utilities](#tools--utilities)
 
 ## Algorithms
@@ -24,15 +24,15 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
 - [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
 
-## Command-Line Tools
-
-- [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
-- [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
-
 ## Documentations
 
 - [``Jule Manual``](https://manual.jule.dev): Official manual of the Jule programming language.
 - [``Jule-101``](https://github.com/yasinldev/Jule-101): Turkish resource for the Jule programming language.
+
+## Libraries
+- [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
+- [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
+- [``snapbox``](https://github.com/adamperkowski/snapbox): HTTP Client Library for Jule.
 
 ## Tools & Utilities
 
