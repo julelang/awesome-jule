@@ -37,4 +37,5 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 ## Tools & Utilities
 
 - [``julefmt``](https://github.com/julelang/julefmt): Official source code formatter for the Jule programming language.
+- [``juledoc``](https://github.com/julelang/juledoc): Official documentation generator for the Jule programming language.
 - [``jpu``](https://github.com/adamperkowski/jpu): JuleProtonUp is a fast and lightweight ProtonUp alternative.
