@@ -7,6 +7,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [CI/CD](#cicd)
 - [Compilers & Parsers](#compilers--parsers)
 - [Documentations](#documentations)
+- [Game Development](#game-development)
 - [Libraries](#libraries)
 - [Tools & Utilities](#tools--utilities)
 
@@ -28,6 +29,10 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 - [``Jule Manual``](https://manual.jule.dev): Official manual of the Jule programming language.
 - [``Jule-101``](https://github.com/yasinldev/Jule-101): Turkish resource for the Jule programming language.
+
+## Game Development
+
+- [``raylib``](https://github.com/wdvn/raylib): Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming.
 
 ## Libraries
 - [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
