@@ -6,6 +6,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Algorithms](#algorithms)
 - [CI/CD](#cicd)
 - [Compilers & Parsers](#compilers--parsers)
+- [Databases](#databases)
 - [Documentations](#documentations)
 - [Game Development](#game-development)
 - [Installers](#installers)
@@ -25,6 +26,10 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 - [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
 - [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
+
+## Databases
+
+- [``ldb``](https://github.com/mertcandav/ldb): Local, easy-to-use, thread-safe database for Jule.
 
 ## Documentations
 
