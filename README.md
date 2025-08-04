@@ -42,7 +42,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## Installers
 - [``juleup``](https://github.com/lazypwny751/juleup): An elegant, POSIX-compliant toolchain installer for the Jule.
-- [``Jule Iniversal Installer``](https://github.com/JustLachin/jule-universal-installer): Jule Universal Installer for Windows.
+- [``Jule Universal Installer``](https://github.com/JustLachin/jule-universal-installer): Jule Universal Installer for Windows.
 
 ## Libraries
 - [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
