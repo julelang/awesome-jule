@@ -12,6 +12,8 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Installers](#installers)
 - [Libraries](#libraries)
 - [Tools & Utilities](#tools--utilities)
+- [Other](#other)
+  - [Articles](#articles)
 
 ## Algorithms
 
@@ -56,3 +58,9 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``julefmt``](https://github.com/julelang/julefmt): Official source code formatter for the Jule programming language.
 - [``julevm``](https://codeberg.org/pgmtx/julevm): A dead-simple, cross-platform Jule version manager.
 - [``jpu``](https://github.com/adamperkowski/jpu): JuleProtonUp is a fast and lightweight ProtonUp alternative.
+
+## Other
+
+### Articles
+
+- [Jule cheatsheet](https://pgmtx.neocities.org/articles/jule_cheatsheet)
