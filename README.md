@@ -66,6 +66,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``vscode-jule``](https://github.com/julelang/vscode-jule): Official Jule extension for Visual Studio Code.
 - [``jule.nvim``](https://github.com/julelang/jule.nvim): Official Jule extension for Neovim.
 - [``Sublime Jule``](https://github.com/SabeDoesThings/Sublime_Jule): A simple syntax highlighter for the Jule programming language for Sublime Text 3
+- [``lite-plugin-jule``](https://codeberg.org/pgmtx/lite-plugin-jule): A plugin providing syntax highlighting for the Jule programming language.
 
 ## Other
 
