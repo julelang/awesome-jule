@@ -11,6 +11,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Game Development](#game-development)
 - [Installers](#installers)
 - [Libraries](#libraries)
+- [Playgrounds](#playgrounds)
 - [Tools & Utilities](#tools--utilities)
 - [Text Editors](#text-editors)
 - [Other](#other)
@@ -53,6 +54,10 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
 - [``julenum``](https://github.com/mertcandav/julenum): A high-performance library for numerical methods and scientific computing in Jule.
 - [``snapbox``](https://github.com/adamperkowski/snapbox): HTTP Client Library for Jule.
+
+## Playgrounds
+
+- [``jule-playground``](https://github.com/pgmtx/jule-playground): An online sandbox to quickly test Jule code.
 
 ## Tools & Utilities
 
