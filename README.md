@@ -27,6 +27,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## CI/CD
 
+- [``setup-jule``](https://github.com/julelang/setup-jule): Use Jule on GitHub Actions (Official).
 - [``setup-jule``](https://github.com/Panquesito7/setup-jule/): Setup a JuleC development environment in your project's GitHub Actions.
 
 ## Command Line
@@ -36,7 +37,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## Compilers & Parsers
 
-- [``ginny``](https://codeberg.org/pgmtx/ginny): A simple INI parser library for Jule
+- [``ginny``](https://codeberg.org/pgmtx/ginny): A simple INI parser library for Jule.
 - [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
 - [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
 
@@ -51,12 +52,12 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## Game Development
 
-- [``raylib``](https://github.com/wdvn/raylib): Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming
-- [``rayjule``](https://github.com/jule-gamedev/rayjule): [raylib](https://www.raylib.com) bindings for jule0.2.0
+- [``raylib``](https://github.com/wdvn/raylib): Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming.
+- [``rayjule``](https://github.com/jule-gamedev/rayjule): [raylib](https://www.raylib.com) bindings for `jule0.2.0`.
 
 ## Graphics
 
-- [``RGFW``](https://github.com/mertcandav/RGFW): Jule bindings for RGFW
+- [``RGFW``](https://github.com/mertcandav/RGFW): Jule bindings for [RGFW](https://github.com/ColleagueRiley/RGFW).
 
 ## Installers
 - [``juleup``](https://github.com/lazypwny751/juleup): An elegant, POSIX-compliant toolchain installer for the Jule.
@@ -84,12 +85,12 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 - [``vscode-jule``](https://github.com/julelang/vscode-jule): Official Jule extension for Visual Studio Code.
 - [``jule.nvim``](https://github.com/julelang/jule.nvim): Official Jule extension for Neovim.
-- [``Sublime Jule``](https://github.com/SabeDoesThings/Sublime_Jule): A simple syntax highlighter for the Jule programming language for Sublime Text 3
+- [``Sublime Jule``](https://github.com/SabeDoesThings/Sublime_Jule): A simple syntax highlighter for the Jule programming language for Sublime Text 3.
 - [``lite-plugin-jule``](https://codeberg.org/pgmtx/lite-plugin-jule): A plugin providing syntax highlighting for the Jule programming language.
 
 ## Other
 
 ### Articles
 
-- [Jule cheatsheet](https://pgmtx.neocities.org/articles/jule_cheatsheet)
-- [Memory-Safe Jule language emerges as C/C++ alternative](https://thenewstack.io/jule-open-source-programming-language)
+- [Memory-Safe Jule language emerges as C/C++ alternative](https://thenewstack.io/jule-open-source-programming-language) (February, 2026)
+- [Jule cheatsheet](https://pgmtx.neocities.org/articles/jule_cheatsheet) (October, 2025)
