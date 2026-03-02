@@ -6,12 +6,15 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Algorithms](#algorithms)
 - [CI/CD](#cicd)
 - [Compilers & Parsers](#compilers--parsers)
+- [Command Line](#command-line)
 - [Databases](#databases)
 - [Documentations](#documentations)
 - [Game Development](#game-development)
+- [Graphics](#graphics)
 - [Installers](#installers)
-- [Libraries](#libraries)
+- [Network](#network)
 - [Playgrounds](#playgrounds)
+- [Science & Math](#science--math)
 - [Tools & Utilities](#tools--utilities)
 - [Text Editors](#text-editors)
 - [Other](#other)
@@ -26,8 +29,14 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 - [``setup-jule``](https://github.com/Panquesito7/setup-jule/): Setup a JuleC development environment in your project's GitHub Actions.
 
+## Command Line
+
+- [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
+- [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
+
 ## Compilers & Parsers
 
+- [``ginny``](https://codeberg.org/pgmtx/ginny): A simple INI parser library for Jule
 - [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
 - [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
 
@@ -45,19 +54,24 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [``raylib``](https://github.com/wdvn/raylib): Jule bindings for [raylib](https://www.raylib.com), a simple and easy-to-use library to learn videogames programming
 - [``rayjule``](https://github.com/jule-gamedev/rayjule): [raylib](https://www.raylib.com) bindings for jule0.2.0
 
+## Graphics
+
+- [``RGFW``](https://github.com/mertcandav/RGFW): Jule bindings for RGFW
+
 ## Installers
 - [``juleup``](https://github.com/lazypwny751/juleup): An elegant, POSIX-compliant toolchain installer for the Jule.
 - [``Jule Universal Installer``](https://github.com/JustLachin/jule-universal-installer): Jule Universal Installer for Windows.
 
-## Libraries
-- [``colorify``](https://github.com/lareii/colorify): Produce colorful output using ANSI codes.
-- [``cliq``](https://github.com/adamperkowski/cliq): A CLI library for Jule.
-- [``julenum``](https://github.com/mertcandav/julenum): A high-performance library for numerical methods and scientific computing in Jule.
+## Network
+
 - [``snapbox``](https://github.com/adamperkowski/snapbox): HTTP Client Library for Jule.
 
 ## Playgrounds
 
 - [``jule-playground``](https://github.com/pgmtx/jule-playground): An online sandbox to quickly test Jule code.
+
+## Science & Math
+- [``julenum``](https://github.com/mertcandav/julenum): A high-performance library for numerical methods and scientific computing in Jule.
 
 ## Tools & Utilities
 
