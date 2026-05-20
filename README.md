@@ -19,6 +19,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 - [Text Editors](#text-editors)
 - [Other](#other)
   - [Articles](#articles)
+  - [Uncategorized](#uncategorized)
 
 ## Algorithms
 
@@ -37,6 +38,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 ## Compilers & Parsers
 
+- [``envy``](https://codeberg.org/pgmtx/envy): A dead-simple .env parser library for Jule.
 - [``ginny``](https://codeberg.org/pgmtx/ginny): A simple INI parser library for Jule.
 - [``jule``](https://github.com/julelang/jule): The official reference compiler, standard library and API for the Jule programming language.
 - [``tree-sitter-jule``](https://github.com/TheLooped/tree-sitter-jule): Tree sitter grammar for Jule.
@@ -93,3 +95,7 @@ List of awesome [Jule](https://github.com/julelang/jule) and Jule-related projec
 
 - [Memory-Safe Jule language emerges as C/C++ alternative](https://thenewstack.io/jule-open-source-programming-language) (February, 2026)
 - [Jule cheatsheet](https://pgmtx.neocities.org/articles/jule_cheatsheet) (October, 2025)
+
+### Uncategorized
+
+- [``jext``](https://codeberg.org/pgmtx/jext): A simple Jule library to easily extract zip files.
